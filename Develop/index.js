@@ -17,7 +17,7 @@
 
 const inquirer = require('inquirer');
 const fs = require('fs');
-const generateMarkdown = require('./utils/generateMarkdown'); // You will need to create a separate module to generate the markdown content.
+const generateMarkdown = require('./utils/generateMarkdown');
 
 // Create an array of questions for user input
 const questions = [

@@ -1,8 +1,8 @@
 
-# README
+# me
 
 ## Description
-a readme file
+cool
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,21 +13,21 @@ a readme file
 - [Questions](#questions)
 
 ## Installation
-simply run node
+tame the sexy beast
 
 ## Usage
-simply type
+suck it
 
 ## License
-This project is licensed under the Other license.
+This project is licensed under the ISC license.
 
 ## Contributing
-teacher
+eeet
 
 ## Tests
-figure it out
+no
 
 ## Questions
 If you have any questions or need further assistance, feel free to reach out to me:
-- GitHub: [zchamb](https://github.com/zchamb)
-- Email: no@gmail.com
+- GitHub: [zsizzle](https://github.com/zsizzle)
+- Email: yu[@no
