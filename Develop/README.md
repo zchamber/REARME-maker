@@ -1,8 +1,8 @@
 
-# me
+# The coolest readme ever
 
 ## Description
-cool
+A Readme maker
 
 ## Table of Contents
 - [Installation](#installation)
@@ -13,21 +13,21 @@ cool
 - [Questions](#questions)
 
 ## Installation
-tame the sexy beast
+simply install
 
 ## Usage
-suck it
+use carefully
 
 ## License
 This project is licensed under the ISC license.
 
 ## Contributing
-eeet
+do as you see fit
 
 ## Tests
-no
+good job
 
 ## Questions
 If you have any questions or need further assistance, feel free to reach out to me:
-- GitHub: [zsizzle](https://github.com/zsizzle)
-- Email: yu[@no
+- GitHub: [zchamber](https://github.com/zchamber)
+- Email: zachchamber07@gmail.com
